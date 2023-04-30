@@ -1,0 +1,7 @@
+ 192.168.100.18 geo.hivebedrock.network
+ 192.168.100.18 hivebedrock.network
+ 192.168.100.18 mco.mineplex.com
+ 192.168.100.18 play.inpvp.net
+ 192.168.100.18 mco.lbsg.net
+ 192.168.100.18 play.galaxite.net
+ 192.168.100.18 play.pixelparadise.gg

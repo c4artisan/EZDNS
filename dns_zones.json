@@ -1,0 +1,37 @@
+[
+   {
+      "type":"a",
+      "name":"geo.hivebedrock.network",
+      "value":"192.168.100.18"
+   },
+   {
+      "type":"a",
+      "name":"hivebedrock.network",
+      "value":"192.168.100.18"
+   },
+   {
+      "type":"a",
+      "name":"mco.mineplex.com",
+      "value":"192.168.100.18"
+   },
+   {
+      "type":"a",
+      "name":"play.inpvp.net",
+      "value":"192.168.100.18"
+   },
+   {
+      "type":"a",
+      "name":"mco.lbsg.net",
+      "value":"192.168.100.18"
+   },
+   {
+      "type":"a",
+      "name":"play.galaxite.net",
+      "value":"192.168.100.18"
+   },
+   {
+      "type":"a",
+      "name":"play.pixelparadise.gg",
+      "value":"192.168.100.18"
+   }
+]

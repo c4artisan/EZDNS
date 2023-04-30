@@ -1,0 +1,11 @@
+HOW TO SET UP:
+Change the IPs in dns_zones.json and dns_zones-hosts.txt to the ones your BedrockConnect server is using.
+Install the latest version of Python. After it's all done, execute these commands
+
+pip install dnslib requests pyinstaller
+
+pyinstaller RiiConnect24-DNS-Server.spec
+
+then run the exe that's inside the dist folder.
+
+Set up the DNS as you normally would.

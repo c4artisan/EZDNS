@@ -1,0 +1,5 @@
+('c:\\python311\\lib\\site-packages\\pysocks-1.7.1-py3.11.egg',
+ None,
+ {'*.pyd', '*.py', 'EGG-INFO', '*.pyc', '*.pyw', '*.cp311-win_amd64.pyd'},
+ 'DATA',
+ [])
